@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# 🔥 Next js messaging-app
+
+Next js full stack messaging-app.
+
+## 💦 Screenshot
+
+![App Screenshot](https://i.ibb.co/nM6VNWm/screencapture-localhost-5174-2023-11-13-12-13-06.png)
+
 ## Getting Started
 
 First, run the development server:
